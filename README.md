@@ -2,7 +2,7 @@
 
 **Guess the Correct Word!** is an interactive and addictive web-based game designed to test your vocabulary and problem-solving skills. Players are presented with scrambled letters or blanks and must figure out the hidden word before running out of attempts. 
 
-[Live Demo](Link-to-your-live-website-or-github-pages)
+[Live Demo](https://yeal22.github.io/Guess-The-Correct-Word-/)
 
 ## ✨ Features
 * **Interactive Gameplay:** Simple, intuitive UI for a seamless user experience.
